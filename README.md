@@ -34,4 +34,4 @@ This project demonstrates full-stack development skills including backend archit
 
 ## 📌 Status
 
-🚧 Currently in active development.
+🚧 Currently in active development..
